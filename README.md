@@ -1,1 +1,1 @@
-# [Pygame](https://bigjackson.us.kg/pygame)
+# [Python](https://bigjackson.us.kg/pygame)
